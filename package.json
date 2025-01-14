@@ -1,0 +1,14 @@
+
+{
+    "name": "com.ddoed.commonutility",
+    "version": "1.0.0",
+    "displayName": "Ddoed Common Utility",
+    "description": "Common Manager Class",
+    "unity": "2022.3",
+    "dependencies": {
+      "com.unity.inputsystem": "1.7.0"
+   },
+    "author": {
+      "name": "Yim Na Bin"
+    }
+  }
